@@ -1,0 +1,1 @@
+# Omara-online-GEOG676-fall2026
