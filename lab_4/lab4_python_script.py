@@ -1,6 +1,6 @@
 import arcpy
 
-arcpy.env.workspace = r'C:\DevSource\Omara-online-GEOG676-fall2026\lab_4\codes_env'
+arcpy.env.workspace = r'C:\DevSource\Omara-online-GEOG676-fall2026\lab_4\lab4_python_script.py'
 folder_path = r'C:\DevSource\Omara-online-GEOG676-fall2026\lab_4'
 gdb_name = 'TheLab4.gdb'
 gdb_path = folder_path + '\\' + gdb_name
