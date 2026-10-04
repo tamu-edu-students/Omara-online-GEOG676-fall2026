@@ -1,7 +1,7 @@
 import arcpy
 
 arcpy.env.workspace = r'C:\DevSource\GISDev\topic\04\codes_env'
-folder_path = r'C:\DevSource\GISDev\topic\04'
+folder_path = r'C:\DevSource\Omara-online-GEOG676-fall2026\lab_4'
 gdb_name = 'TheLab4.gdb'
 gdb_path = folder_path + '\\' + gdb_name
 arcpy.CreateFileGDB_management(folder_path, gdb_name)
