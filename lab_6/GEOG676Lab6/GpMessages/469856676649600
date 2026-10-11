@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, October 11, 2026 2:54:29 PM</msg><msg code="1" type="100">Traceback (most recent call last):
+﻿  File "C:\DevSource\Omara-online-GEOG676-fall2026\lab_6\Maptool_Liam.pyt", line 83, in execute
+    time.sleep(readTime)
+    ^^^^
+﻿NameError: name 'time' is not defined. Did you forget to import 'time'?
+﻿</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Sunday, October 11, 2026 2:54:29 PM (Elapsed Time: 0.65 seconds)</msg></messages>
